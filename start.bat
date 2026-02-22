@@ -1,12 +1,12 @@
 @echo off
-title AI Support Bot - Initializing
+title Autoresponse-Bot
 setlocal enabledelayedexpansion
 
 :: Set working directory
 cd /d "%~dp0"
 
 echo ========================================
-echo       AI Support Bot Initializer
+echo       Autoresponse-Bot
 echo ========================================
 echo.
 
