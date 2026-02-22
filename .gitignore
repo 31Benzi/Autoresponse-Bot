@@ -1,0 +1,5 @@
+node_modules/
+.env
+bot.lock
+*.traineddata
+.DS_Store
