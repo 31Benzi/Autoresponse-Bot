@@ -8,7 +8,7 @@
 
 ## Suggestions / Issues
 
-If you have any suggestions or encounter any issues, contact me on Discord: **dribenzi**
+If you have any suggestions or encounter any issues, contact me on Discord: **dripbenzi**
 
 ---
 
