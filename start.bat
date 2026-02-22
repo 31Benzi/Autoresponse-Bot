@@ -53,8 +53,8 @@ if not exist node_modules (
 :: 4. Main Loop
 :start
 cls
-title AI Support Bot - Running
-echo Starting AI Support Bot...
+title Autoresponse-Bot - Running
+echo Starting Autoresponse-Bot...
 :: Run index.js from the BotFiles folder
 node BotFiles/index.js
 
